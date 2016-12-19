@@ -64,6 +64,6 @@ if ( mese() == festa('christmas').month && today == festa('christmas').day ) {
     status = true;
   }, 500);
 } else {
-  spinner.text = "Oh no... It's a common day...";
+  spinner.text = emoji.get('sweat') + " Oh no... It's a common day...";
   spinner.fail()
 }
