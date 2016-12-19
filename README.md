@@ -1,10 +1,10 @@
 # HappyNewYear
 
-**HappyNewYear** is a *nodeJs* client module who provides to check if in the current day is a [festivity](https://github.com/festivities.json).
+**HappyNewYear** is a *nodeJs* client module who provides to check if in the current day is a [festivity](https://github.com/Rawnly/festivities.json).
 
 ![static_image](img/static.png)
 
-> Get the same setup [here](https://github.com/dot-files)
+> Get the same setup [here](https://github.com/Rawnly/dot-files)
 
 ## Installation
 
