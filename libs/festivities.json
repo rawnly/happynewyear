@@ -1,0 +1,22 @@
+{
+  "christmas": {
+    "day": 25,
+    "month": "December"
+  },
+  "newyear": {
+    "day": 1,
+    "month": "January"
+  },
+  "epifany": {
+    "day": 6,
+    "month": "January"
+  },
+  "valentines": {
+    "day": 14,
+    "month": "February"
+  },
+  "halloween": {
+    "day": 31,
+    "month": "October"
+  }
+}

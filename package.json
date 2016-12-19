@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "clear": "^0.0.1",
+    "colors": "^1.1.2",
+    "node-emoji": "^1.4.3",
+    "opener": "^1.4.2",
+    "ora": "^0.4.0"
+  },
+  "name": "happynewyear-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Federico Vitale",
+  "bin": {
+    "happynewyear": "./index.js"
+  },
+  "description": "**HappyNewYear** is a *nodeJs* client module who provides to check if in the current day is a [festivity](https://github.com/festivities.json).",
+  "devDependencies": {},
+  "scripts": {
+    "test": "./index.js"
+  }
+}
