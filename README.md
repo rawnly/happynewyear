@@ -4,10 +4,11 @@
 
 ![static_image](img/static.png)
 
-> Get the same setup [here](https://github.com/Rawnly/dot-files)
+> Get the same setup  [here](https://github.com/Rawnly/dot-files)
+
+> **Note**: Add it to your `.zshrc` or `.bashrc` to get the same result of the screenshot on top
 
 ## Installation
-
 #### NPM
 To install `happynewyear` you must use **npm** and install it as global.
 
