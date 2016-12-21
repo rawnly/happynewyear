@@ -8,7 +8,7 @@
     "ora": "^0.4.0"
   },
   "name": "happynewyear-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "author": "Federico Vitale",
