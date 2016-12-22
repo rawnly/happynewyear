@@ -1,5 +1,7 @@
 # HappyNewYear
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a3e8534912904ed180b1978b37f04a5f)](https://www.codacy.com/app/fedevitale99/happynewyear?utm_source=github.com&utm_medium=referral&utm_content=Rawnly/happynewyear&utm_campaign=badger)
+
 **HappyNewYear** is a *nodeJs* client module who provides to check if in the current day is a [festivity](https://github.com/Rawnly/festivities.json).
 
 <p align="center">
