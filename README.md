@@ -3,7 +3,7 @@
 **HappyNewYear** is a *nodeJs* client module who provides to check if in the current day is a [festivity](https://github.com/Rawnly/festivities.json).
 
 <p align="center">
-  <img src="img/static.png" alt="img1" />
+  <img src="https://cloud.githubusercontent.com/assets/16429579/21469060/835eb0c4-ca37-11e6-9f67-11d8078868dc.png" alt="img1" />
 </p>
 
 > Get the same setup  [here](https://github.com/Rawnly/dot-files)
@@ -36,10 +36,10 @@ You can also clone this repo and install it manually,
 Good! Then to check festivity simply digit `happynewyear` in your `shell`
 
 <p align="center">
-  <img src="img/mini.gif" alt="mini" />
+  <img src="https://cloud.githubusercontent.com/assets/16429579/21469066/c9526dfa-ca37-11e6-8f88-d94ae8ed8d8e.gif" alt="mini" />
 </p>
 
 ---
 ## All Festivities
 
-![animated3](img/animated3.gif)
+![animated3](https://cloud.githubusercontent.com/assets/16429579/21469069/daf4a3f2-ca37-11e6-8060-f47161c4fb03.gif)
